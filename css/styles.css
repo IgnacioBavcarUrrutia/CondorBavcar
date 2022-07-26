@@ -105,6 +105,9 @@ width: 100%;
     align-items: center;
     justify-content: space-evenly;
 }
+.productotextodestacado h3 {
+    font-weight: bolder;
+}
 .productotextodestacado a {
     background-color: #000000;
     color: #FFFFFF;
